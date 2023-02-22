@@ -1,9 +1,9 @@
 {
-    "name": "vin-sw/shopware-sdk",
+    "name": "vardan-weem/shopware-sdk",
     "description": "A PHP SDK for Shopware 6 Platform",
     "type": "library",
     "license": "MIT",
-    "version": "1.7.3",
+    "version": "2.0.0",
     "authors": [
         {
             "name": "vin",
